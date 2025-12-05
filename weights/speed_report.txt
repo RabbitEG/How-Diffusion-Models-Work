@@ -1,2 +1,0 @@
-DDIM_25steps_sec:0.12
-DDPM_500steps_sec:3.73

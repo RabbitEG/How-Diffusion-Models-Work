@@ -1,3 +1,11 @@
 .ipynb_checkpoints
 __pycache__
 .venv
+# training / generated assets
+weights/*.pth
+weights/*.png
+weights/*.npy
+weights/*.txt
+
+# OS/editor noise
+.DS_Store

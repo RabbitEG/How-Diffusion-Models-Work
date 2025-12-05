@@ -1,3 +1,0 @@
-sprite_shape: (89400, 16, 16, 3)
-label_shape: (89400, 5)
-class_counts: class_0:8000, class_1:32400, class_2:6000, class_3:35000, class_4:8000
